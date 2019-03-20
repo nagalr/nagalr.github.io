@@ -1,7 +1,7 @@
 title: Ronnen Nagal
 author: Ronnen Nagal
 email: nagalr@me.com
-description: >- # this means to ignore newlines until "baseurl:"
+description:
   Data Scientist experienced in executing data-driven solutions, including assessing box office revenue, digitizing records and building long-lasting relationships across hedge-funds and consultancy companies. 
 Experienced at supporting decision-making at all levels, creating data-based Machine Learning models, modelling Supervised models using various classification algorithms to deliver insights and implement action-oriented solutions to complex business problems.
 baseurl: "" # the subpath of your site, e.g. /blog
