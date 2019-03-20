@@ -1,10 +1,9 @@
 title: Ronnen Nagal
 author: Ronnen Nagal
-email: your-email@example.com
+email: nagalr@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Data Scientist experienced in executing data-driven solutions, including assessing box office revenue, digitizing records and building long-lasting relationships across hedge-funds and consultancy companies. 
+Experienced at supporting decision-making at all levels, creating data-based Machine Learning models, modelling Supervised models using various classification algorithms to deliver insights and implement action-oriented solutions to complex business problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
