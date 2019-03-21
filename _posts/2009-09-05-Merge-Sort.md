@@ -2,8 +2,8 @@
 layout: post
 title:  "Merge Sort Implementation in C#"
 date:   2009-09-05 15:54:28 +0500
-categories: [code, programming, C#, algorithm]
-tags: [code, programming, C#, algorithm]
+categories: [code, programming, CSharpe, algorithm]
+tags: [code, programming, CSharp, algorithm]
 ---
 # Introduction
 Sorting is a common activity in the programming work. Merge-Sort is one of the best implementation for sorting, since its running on O(nlogn) - which is the best run-time available for sorting.
@@ -129,4 +129,4 @@ There are two projects attached:
 The first one is a simple (int32) Implementation, that sorts an array of integers. The second one is the Generic Merge Sort, Plus a simple 'Person' class that will demonstrate the using of the Generic code.
 
 # License
-This article, along with any associated source code and files, is licensed under The Code Project Open License (CPOL)
+This article, along with any associated source code and files, is licensed under GPL (GPLv3)
