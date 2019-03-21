@@ -20,7 +20,7 @@ For using the Generic Merge Sort, you should (probably) know what is the objects
 
 Now, since the 2 sub-arrays should be initialized with an infinite value, you should use the default-ctor to make that initialization. Example: For sorting an array of 'Persons' Objects that will be sorted according to their ID number (from low to high), you should declare infinite ID-number (infinite int32 value) in the default-ctor. (I know This is not an elegant implementation, but In that case there is no alternative.)
 
-{% highlight C# %}
+{% highlight JAVA %}
 class MergeSort
     {
         // Sorts an array of Objects
