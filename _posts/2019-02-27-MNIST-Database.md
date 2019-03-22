@@ -97,7 +97,7 @@ This is a multiple class case using a Logistic Regression model; hence, the bina
 {% highlight Python %}
 %%time 
 
-# Changed to multi_class='ovr' following the warnings for multi_class
+//Changed to multi_class='ovr' following the warnings for multi_class
 
 log = LogisticRegression(solver='lbfgs', multi_class='ovr')
 log.fit(X_train, y_train)
