@@ -1,3 +1,5 @@
+Visit the site at: https://nagalr.github.io/
+
 To customize your blog, edit the files:
 - about.md
 - index.md
